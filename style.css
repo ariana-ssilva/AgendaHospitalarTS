@@ -1,0 +1,17 @@
+*{
+    padding: 50px;
+}
+
+body{
+    background-image: url(/assets/magic.gif);
+    background-size: cover;
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+h1{
+    align-items: center;
+    justify-content: center;
+}
+
